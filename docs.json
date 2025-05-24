@@ -17,7 +17,7 @@
         "tab": "Home",
         "groups": [
           {
-            "group": "Help Center",
+            "group": "HELP CENTER",
             "pages": [
               "index"
             ]
@@ -28,20 +28,20 @@
         "tab": "Account",
         "groups": [
           {
-            "group": "Management",
+            "group": "MANAGEMENT",
             "pages": [
               "account/management/create-account",
               "account/management/profile-setup"
             ]
           },
           {
-            "group": "Security",
+            "group": "SECURITY",
             "pages": [
               "account/security/general-tips"
             ]
           },
           {
-            "group": "Connections",
+            "group": "CONNECTIONS",
             "pages": [
               "account/connections/connecting-roblox",
               "account/connections/connecting-x",
