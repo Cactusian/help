@@ -42,6 +42,12 @@
             "pages": [
               "account/management/create-account"
             ]
+          },
+          {
+            "group": "Security",
+            "pages": [
+              "account/security/general-tips"
+            ]
           }
         ]
       }
