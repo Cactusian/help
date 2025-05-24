@@ -40,10 +40,10 @@
           {
             "group": "Connections",
             "pages": [
-              "account/connections/connecting_roblox",
-              "account/connections/connecting_x",
-              "account/connections/connecting_discord",
-              "account/connections/connecting_spotify"
+              "account/connections/connecting-roblox",
+              "account/connections/connecting-x",
+              "account/connections/connecting-discord",
+              "account/connections/connecting-spotify"
             ]
           }
         ]
