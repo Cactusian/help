@@ -12,9 +12,13 @@
     "tabs": [
       {
         "tab": "Home",
-        "pages": [
-          "account/management/create-account",
-          "account/management/profile-setup"
+        "groups": [
+          {
+            "group": "Main",
+            "pages": [
+              "index"
+            ]
+          }
         ]
       },
       {
