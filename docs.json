@@ -38,7 +38,7 @@
         "tab": "Account",
         "groups": [
           {
-            "group": "Account Management",
+            "group": "Account",
             "pages": [
               "account/management/create-account"
             ]
