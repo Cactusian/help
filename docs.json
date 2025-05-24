@@ -78,16 +78,10 @@
     "dark": "https://scdn.cactusian.com/library/common/logoLongPurple.png"
   },
   "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Cactusian",
+      "href": "https://cactusian.com"
     }
   },
   "footer": {
