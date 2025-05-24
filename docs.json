@@ -36,6 +36,15 @@
             "pages": [
               "account/security/general-tips"
             ]
+          },
+          {
+            "group": "Connections",
+            "pages": [
+              "account/connections/connecting-roblox",
+              "account/connections/connecting-x",
+              "account/connections/connecting-discord",
+              "account/connections/connecting-spotify"
+            ]
           }
         ]
       }
