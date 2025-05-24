@@ -38,18 +38,9 @@
         "tab": "Account",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "Account Management",
             "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "account/account-management/create-account"
             ]
           }
         ]
