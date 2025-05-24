@@ -50,6 +50,19 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Legal & Policies",
+        "groups": [
+          {
+            "group": "CACTUSIAN",
+            "pages": [
+              "legal-policies/cactusian/community-guidelines",
+              "legal-policies/cactusian/terms-of-service",
+              "legal-policies/cactusian/privacy-policy"
+            ]
+          }
+        ]
       }
     ],
     "global": {
