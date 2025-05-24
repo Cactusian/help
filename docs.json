@@ -14,7 +14,7 @@
         "tab": "Home",
         "groups": [
           {
-            "group": "Main",
+            "group": "",
             "pages": [
               "index"
             ]
