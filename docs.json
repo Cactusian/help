@@ -40,7 +40,8 @@
           {
             "group": "Management",
             "pages": [
-              "account/management/create-account"
+              "account/management/create-account",
+              "account/management/profile-setup"
             ]
           },
           {
