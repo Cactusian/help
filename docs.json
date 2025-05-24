@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Cactusian Help",
   "colors": {
     "primary": "#6616E9",
     "light": "#6616E9",
     "dark": "#6616E9"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "https://scdn.cactusian.com/library/common/favicon.ico",
   "navigation": {
     "tabs": [
       {
