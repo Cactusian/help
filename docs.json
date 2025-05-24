@@ -40,7 +40,7 @@
           {
             "group": "Account Management",
             "pages": [
-              "account/account-management/create-account"
+              "account/management/create-account"
             ]
           }
         ]
