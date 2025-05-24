@@ -8,6 +8,9 @@
     "dark": "#6616E9"
   },
   "favicon": "/images/favicon.ico",
+  "fonts": {
+    "family": "Work Sans"
+  },
   "navigation": {
     "tabs": [
       {
